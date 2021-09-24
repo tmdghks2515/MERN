@@ -1,0 +1,22 @@
+* {
+  @font-face {
+    font-family: 'NotoSansKR';
+    src: url("./fonts/NotoSansKR-Regular.otf");
+  }
+  font-family: 'NotoSansKR';
+}
+
+#main-footer {
+  background: #2f3142;
+  color: whitesmoke;
+  width: 100%;
+  bottom: 0;
+  position: fixed;
+}
+#page-header {
+  height: 200px;
+  background: #2f3142;
+  color: whitesmoke;
+  border-bottom: 1px solid #eee;
+  padding-top: 50px;
+}
